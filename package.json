@@ -9,11 +9,6 @@
   "collection:main": "dist/collection/index.js",
   "module": "dist/custom-elements/index.js",
   "types": "dist/custom-elements/index.d.ts",
-  "files": [
-    "dist/",
-    "loader/",
-    "themes/"
-  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/shoelace-style/shoelace.git"
